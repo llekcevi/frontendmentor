@@ -68,7 +68,7 @@ button:active, button:hover {
     color:hsla(0, 0%, 100%, 0.75);
 }
 
-@media screen and (min-width: 100px) {
+@media screen and (min-width: 1000px) {
     p {
         padding-bottom: 5em;
     }
